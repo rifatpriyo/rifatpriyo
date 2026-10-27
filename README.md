@@ -1,68 +1,57 @@
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Rifat Bin Sadeque</h1>
 
-# Rifat Bin Sadeque
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-**Applied AI · Natural Language Processing · Web & Mobile Development**
+## 📌 About Me
 
-CS student at BRAC University, Bangladesh · 
+- 🎓 Computer Science & Engineering student at **BRAC University**, Bangladesh.
+- 🤖 Interested in **Natural Language Processing, LLMs, and Retrieval-Augmented Generation (RAG)**.
+- 💻 Building **web and mobile applications**, alongside projects in **machine learning and computer vision**.
+- 🔬 Exploring model evaluation and turning AI experiments into practical, usable tools.
 
-<p>
-  <a href="https://github.com/rifatpriyo?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Work-2563EB?style=for-the-badge" alt="Featured work" /></a>
-  <a href="#current-focus"><img src="https://img.shields.io/badge/AI_%26_NLP-0F766E?style=for-the-badge" alt="AI and NLP interests" /></a>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifatpriyo&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="rifatpriyo's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rifatpriyo&theme=nightowl&hide_border=true&cache_seconds=86400" alt="rifatpriyo's GitHub Streak" width="49%" />
 </p>
-
-</div>
-
----
-
-## About Me
-
-I'm Priyo, a Computer Science and Engineering student working across **machine learning, language models, and application development**. My projects range from comparing NLP models and classifying images to building business tools, event-booking experiences, and Android apps.
-
-I'm especially interested in connecting **careful model evaluation** with **useful software**: understanding how a model behaves, choosing an appropriate approach, and making it accessible through a clear interface.
-
-## Featured Projects
-
-| Project | What I've worked on | Core technologies |
-| :--- | :--- | :--- |
-| **[RelayDesk](https://github.com/rifatpriyo/RelayDesk)** | An early-preview business AI assistant with approved knowledge, a shared inbox, and human handover. Working local demo; live integrations still require validation. | Next.js · TypeScript · Supabase |
-| **[Psychological Manipulation Classification](https://github.com/rifatpriyo/psychological-manipulation-classification)** | Academic NLP study comparing **10 model families** across **7 conversation categories**, with template-aware data splitting and error analysis. Includes a [web inference app](https://github.com/rifatpriyo/cse440-lab-testing-site). | Python · scikit-learn · TensorFlow · PyTorch |
-| **[Sync Cost](https://github.com/rifatpriyo/Sync-Cost-Expense-Tracker-app-)** | Offline Android expense tracker with budgets, multiple wallets, spending charts, and CSV export. | React Native · Expo · TypeScript · SQLite |
-| **[TixWix](https://github.com/rifatpriyo/tixwix-events)** | Team project for movie, concert, and football ticket booking, featuring seat selection, **3D stadium views**, and admin workflows. | React · TypeScript · Supabase · Three.js |
-| **[Dog Vision](https://github.com/rifatpriyo/Dog-Vision)** | Image classification across **120 dog breeds** using MobileNetV2 transfer learning, from data preparation to prediction visualization. | Python · TensorFlow · Keras |
-| **[EduConnect CRM](https://github.com/rifatpriyo/CRM-based-work)** | Browser-based CRM demo for education consultancies, covering student leads, applications, follow-ups, and document checklists. | Next.js · TypeScript · Tailwind CSS |
-
-## Technologies I Use
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
-</p>
-
-| Area | Tools used across my projects |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, SQL |
-| **AI & Data** | TensorFlow, Keras, PyTorch, scikit-learn, Hugging Face Transformers, NumPy, pandas |
-| **Web** | React, Next.js, Tailwind CSS, Vite, Three.js |
-| **Mobile** | React Native, Expo, Zustand |
-| **Databases & Backend** | Supabase, PostgreSQL, SQLite, Next.js API routes |
-| **Development & Evaluation** | Git, GitHub, Jupyter, Google Colab, Kaggle, Playwright |
-
-## Current Focus
-
-- **LLM applications & RAG:** building assistants that answer from relevant, approved information.
-- **NLP & model evaluation:** comparing approaches, checking for data leakage, and understanding performance beyond a benchmark.
-- **Application development:** turning project ideas into usable web and mobile experiences.
-
----
 
 <p align="center">
-  <a href="https://github.com/rifatpriyo?tab=repositories"><strong>Explore all repositories →</strong></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatpriyo&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rifatpriyo&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="rifatpriyo's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rifatpriyo&theme=nightowl&radius=10" alt="rifatpriyo's Activity Graph" />
+</p>
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+## 🔗 Connect with Me
+
+<p align="center"><a href="https://www.linkedin.com/in/rifat-sadeq-priyo-392543283/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:rspriyo9s3@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<!-- Decorative animation retained from the supplied template; it does not represent my contribution history. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
