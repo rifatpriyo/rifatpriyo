@@ -4,7 +4,7 @@
 
 **Applied AI · Natural Language Processing · Web & Mobile Development**
 
-CSE student at BRAC University, Bangladesh · Also known as **Priyo**
+CS student at BRAC University, Bangladesh · 
 
 <p>
   <a href="https://github.com/rifatpriyo?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
